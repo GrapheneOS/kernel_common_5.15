@@ -1155,7 +1155,6 @@
   uart_resume_port
   uart_set_options
   uart_suspend_port
-  uart_try_toggle_sysrq
   uart_update_timeout
   uart_write_wakeup
   __ubsan_handle_cfi_check_fail_abort
