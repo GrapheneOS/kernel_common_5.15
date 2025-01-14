@@ -2010,6 +2010,7 @@
   __skb_get_hash
   __skb_gso_segment
   __skb_pad
+  skb_pull_data
   skb_push
   skb_put
   skb_queue_purge
